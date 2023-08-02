@@ -114,6 +114,7 @@ pre code {
                     <p><code>&lt;@USER_ID&gt;</code> to tag a member by their username.</p>
                     <p><code>&lt;@&ROLE_ID&gt;</code> to tag a specific role in the server.</p>
                     <p><code>NOTE:</code> None of these will actually ping the role/member. This is a limitation of this feature in itself.</p>
+
                 </div>
             </div>
         </div>
@@ -121,5 +122,6 @@ pre code {
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+                        <code>Created with Love by The ArcticsRP FOR ApolloHUB!</code>
 </body>
 </html>
